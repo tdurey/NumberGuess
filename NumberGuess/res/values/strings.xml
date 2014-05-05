@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Number Guess - Thane Durey</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="instructions">Guess a number between 1 and 10.</string>
+    <string name="submit_button">Submit</string>
+    <string name="action_setting">Settings</string>
+    <string name="largest_number">Largest number</string>
+    <string name = "default_number">10</string>
+    
+
+</resources>
